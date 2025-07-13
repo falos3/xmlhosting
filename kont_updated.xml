@@ -21,8 +21,8 @@
     <Poziom>1</Poziom>
   </Konto>
   <Konto>
-    <Nazwa>policja</Nazwa>
-    <Haslo>6666</Haslo>
-    <Poziom>2</Poziom>
+    <Nazwa>jud</Nazwa>
+    <Haslo>3333</Haslo>
+    <Poziom>3</Poziom>
   </Konto>
 </Konta>
