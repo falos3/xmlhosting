@@ -45,4 +45,9 @@
     <Haslo>6666</Haslo>
     <Poziom>1</Poziom>
   </Konto>
+  <Konto>
+    <Nazwa>inis</Nazwa>
+    <Haslo>2333</Haslo>
+    <Poziom>1</Poziom>
+  </Konto>
 </Konta>
