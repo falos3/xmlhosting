@@ -35,4 +35,9 @@
     <Haslo />
     <Poziom>0</Poziom>
   </Konto>
+  <Konto>
+    <Nazwa>dodaj</Nazwa>
+    <Haslo>333</Haslo>
+    <Poziom>1</Poziom>
+  </Konto>
 </Konta>
