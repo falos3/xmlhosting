@@ -21,8 +21,8 @@
     <Poziom>1</Poziom>
   </Konto>
   <Konto>
-    <Nazwa>super</Nazwa>
+    <Nazwa>start</Nazwa>
     <Haslo>333</Haslo>
-    <Poziom>5</Poziom>
+    <Poziom>1</Poziom>
   </Konto>
 </Konta>
