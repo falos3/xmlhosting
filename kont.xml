@@ -40,4 +40,9 @@
     <Haslo>333</Haslo>
     <Poziom>1</Poziom>
   </Konto>
+  <Konto>
+    <Nazwa>ala nowak</Nazwa>
+    <Haslo>6666</Haslo>
+    <Poziom>1</Poziom>
+  </Konto>
 </Konta>
