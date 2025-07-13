@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Konta>
+<?xml version="1.0" encoding="utf-16"?>
+<Konta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Konto>
     <Nazwa>falo</Nazwa>
     <Haslo>333</Haslo>
@@ -17,6 +17,11 @@
   </Konto>
   <Konto>
     <Nazwa>tomasz</Nazwa>
+    <Haslo>333</Haslo>
+    <Poziom>1</Poziom>
+  </Konto>
+  <Konto>
+    <Nazwa>tomasznowak</Nazwa>
     <Haslo>333</Haslo>
     <Poziom>1</Poziom>
   </Konto>
