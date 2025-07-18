@@ -3,28 +3,13 @@
   <ListaKont>
     <Konto>
       <Nazwa>admin</Nazwa>
-      <Haslo>12345</Haslo>
+      <Haslo>admin</Haslo>
       <Poziom>1</Poziom>
     </Konto>
     <Konto>
       <Nazwa>alicja1</Nazwa>
       <Haslo>333</Haslo>
       <Poziom>1</Poziom>
-    </Konto>
-    <Konto>
-      <Nazwa>ola</Nazwa>
-      <Haslo>333</Haslo>
-      <Poziom>2</Poziom>
-    </Konto>
-    <Konto>
-      <Nazwa>ola1</Nazwa>
-      <Haslo>333</Haslo>
-      <Poziom>2</Poziom>
-    </Konto>
-    <Konto>
-      <Nazwa>ola2</Nazwa>
-      <Haslo>333</Haslo>
-      <Poziom>2</Poziom>
     </Konto>
   </ListaKont>
 </Konta>
