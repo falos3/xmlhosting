@@ -1,4 +1,5 @@
-<Konta>
+<?xml version="1.0" encoding="utf-16"?>
+<Konta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ListaKont>
     <Konto>
       <Nazwa>admin</Nazwa>
@@ -8,6 +9,11 @@
     <Konto>
       <Nazwa>user</Nazwa>
       <Haslo>123</Haslo>
+      <Poziom>2</Poziom>
+    </Konto>
+    <Konto>
+      <Nazwa>tomasz</Nazwa>
+      <Haslo>333</Haslo>
       <Poziom>2</Poziom>
     </Konto>
   </ListaKont>
