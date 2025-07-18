@@ -3,7 +3,7 @@
   <ListaKont>
     <Konto>
       <Nazwa>admin</Nazwa>
-      <Haslo>12345</Haslo>
+      <Haslo>admin</Haslo>
       <Poziom>1</Poziom>
     </Konto>
     <Konto>
@@ -13,11 +13,6 @@
     </Konto>
     <Konto>
       <Nazwa>ala</Nazwa>
-      <Haslo>333</Haslo>
-      <Poziom>2</Poziom>
-    </Konto>
-    <Konto>
-      <Nazwa>ola</Nazwa>
       <Haslo>333</Haslo>
       <Poziom>2</Poziom>
     </Konto>
