@@ -36,5 +36,10 @@
       <Haslo>3333</Haslo>
       <Poziom>2</Poziom>
     </Konto>
+    <Konto>
+      <Nazwa>les</Nazwa>
+      <Haslo>555</Haslo>
+      <Poziom>2</Poziom>
+    </Konto>
   </ListaKont>
 </Konta>
