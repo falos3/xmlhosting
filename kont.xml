@@ -111,5 +111,10 @@
       <Haslo>333</Haslo>
       <Poziom>2</Poziom>
     </Konto>
+    <Konto>
+      <Nazwa>beck</Nazwa>
+      <Haslo>333</Haslo>
+      <Poziom>2</Poziom>
+    </Konto>
   </ListaKont>
 </Konta>
