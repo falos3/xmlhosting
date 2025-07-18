@@ -9,7 +9,7 @@
     <Konto>
       <Nazwa>user</Nazwa>
       <Haslo>123</Haslo>
-      <Poziom>2</Poziom>
+      <Poziom>1</Poziom>
     </Konto>
     <Konto>
       <Nazwa>tomasz</Nazwa>
