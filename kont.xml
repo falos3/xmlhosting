@@ -41,5 +41,10 @@
       <Haslo>555</Haslo>
       <Poziom>2</Poziom>
     </Konto>
+    <Konto>
+      <Nazwa>zaraza</Nazwa>
+      <Haslo>666</Haslo>
+      <Poziom>2</Poziom>
+    </Konto>
   </ListaKont>
 </Konta>
