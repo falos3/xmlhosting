@@ -56,5 +56,10 @@
       <Haslo>333</Haslo>
       <Poziom>2</Poziom>
     </Konto>
+    <Konto>
+      <Nazwa>ala6</Nazwa>
+      <Haslo>333</Haslo>
+      <Poziom>2</Poziom>
+    </Konto>
   </ListaKont>
 </Konta>
