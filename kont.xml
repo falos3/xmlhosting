@@ -11,15 +11,5 @@
       <Haslo>333</Haslo>
       <Poziom>2</Poziom>
     </Konto>
-    <Konto>
-      <Nazwa>ola7</Nazwa>
-      <Haslo>333</Haslo>
-      <Poziom>2</Poziom>
-    </Konto>
-    <Konto>
-      <Nazwa>ola8</Nazwa>
-      <Haslo>333</Haslo>
-      <Poziom>2</Poziom>
-    </Konto>
   </ListaKont>
 </Konta>
