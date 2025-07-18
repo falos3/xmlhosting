@@ -101,5 +101,10 @@
       <Haslo>333</Haslo>
       <Poziom>2</Poziom>
     </Konto>
+    <Konto>
+      <Nazwa>olo5</Nazwa>
+      <Haslo>333</Haslo>
+      <Poziom>2</Poziom>
+    </Konto>
   </ListaKont>
 </Konta>
