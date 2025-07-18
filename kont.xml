@@ -3,7 +3,7 @@
   <ListaKont>
     <Konto>
       <Nazwa>admin</Nazwa>
-      <Haslo>12345</Haslo>
+      <Haslo>admin</Haslo>
       <Poziom>1</Poziom>
     </Konto>
     <Konto>
