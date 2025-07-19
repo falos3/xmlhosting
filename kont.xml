@@ -54,7 +54,7 @@
     <Konto>
       <Nazwa>marcin</Nazwa>
       <Haslo>12345678</Haslo>
-      <Poziom>2</Poziom>
+      <Poziom>1</Poziom>
     </Konto>
     <Konto>
       <Nazwa>falo</Nazwa>
