@@ -2,14 +2,14 @@
 <Konta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ListaKont>
     <Konto>
-      <Nazwa>admin</Nazwa>
-      <Haslo>12345</Haslo>
+      <Nazwa>marcin</Nazwa>
+      <Haslo>12345678</Haslo>
       <Poziom>1</Poziom>
     </Konto>
     <Konto>
-      <Nazwa>ola6</Nazwa>
-      <Haslo>555</Haslo>
-      <Poziom>2</Poziom>
+      <Nazwa>falo</Nazwa>
+      <Haslo>333</Haslo>
+      <Poziom>1</Poziom>
     </Konto>
     <Konto>
       <Nazwa>ola7</Nazwa>
@@ -50,16 +50,6 @@
       <Nazwa>ola90</Nazwa>
       <Haslo>123</Haslo>
       <Poziom>2</Poziom>
-    </Konto>
-    <Konto>
-      <Nazwa>marcin</Nazwa>
-      <Haslo>12345678</Haslo>
-      <Poziom>1</Poziom>
-    </Konto>
-    <Konto>
-      <Nazwa>falo</Nazwa>
-      <Haslo>333</Haslo>
-      <Poziom>1</Poziom>
     </Konto>
     <Konto>
       <Nazwa>kick</Nazwa>
