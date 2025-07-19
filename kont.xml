@@ -56,5 +56,10 @@
       <Haslo>444</Haslo>
       <Poziom>2</Poziom>
     </Konto>
+    <Konto>
+      <Nazwa>falo1</Nazwa>
+      <Haslo>333</Haslo>
+      <Poziom>2</Poziom>
+    </Konto>
   </ListaKont>
 </Konta>
