@@ -46,5 +46,10 @@
       <Haslo>666</Haslo>
       <Poziom>2</Poziom>
     </Konto>
+    <Konto>
+      <Nazwa>ola90</Nazwa>
+      <Haslo>123</Haslo>
+      <Poziom>2</Poziom>
+    </Konto>
   </ListaKont>
 </Konta>
